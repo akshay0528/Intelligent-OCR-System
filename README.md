@@ -1,0 +1,13 @@
+python
+streamlit
+ocr
+easyocr
+tesseract
+llm
+huggingface
+document-processing
+computer-vision
+nlp
+artificial-intelligence
+pdf-processing
+data-extraction
