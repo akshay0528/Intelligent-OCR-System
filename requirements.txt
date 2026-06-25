@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+easyocr
+pytesseract
+pymupdf
+torch
+transformers
+accelerate
+pandas
+numpy
